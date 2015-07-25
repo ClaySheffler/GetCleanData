@@ -25,7 +25,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 SubjectID, x variables (Features), and y (Activity) were split into three separate files each for Train/Test sets, for 6 total.
 
-
+Another two files, features.txt and activity_labels.txt contained the friendly/descriptive names for all 561 X variables and Y (Activity).
 
 ##### The script "run_Analysis.R" does the following:
 
