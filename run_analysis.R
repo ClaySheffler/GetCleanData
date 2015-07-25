@@ -1,5 +1,4 @@
-# Clear workspace/memory
-rm(list=ls())
+rm(list=ls()) # Clear workspace/memory
 
 library(dplyr)
 
